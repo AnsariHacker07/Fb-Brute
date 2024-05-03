@@ -13,8 +13,11 @@ HACK FACEBOOK USING TERMUX OR KALI LINUX
    pkg install python3
    
    git clone https://github.com/AnsariHacker07/Fb-Brute
+   
    cd Fb-Brute
+   
    pip install -r requirements.sh
+   
    python run.py
 
 NOTE : PASSLIST = passlist.txt or use your own passlist
